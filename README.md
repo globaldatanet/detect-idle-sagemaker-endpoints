@@ -1,4 +1,4 @@
-# detect-idles-sagemaker-endpoints
+# detect-idle-sagemaker-endpoints
 Automatically detecting idle Amazon SageMaker endpoints
 
 1. Create an SNS topic and subscribe your email or phone number to it.
